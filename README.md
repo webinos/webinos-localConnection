@@ -18,7 +18,7 @@ http://opensource.apple.com/tarballs/mDNSResponder/
 
 ## Usage
 
-check examples in ./examples 
+Check examples in ./examples 
 
 ## Status
 
@@ -26,5 +26,6 @@ Zeroconf(mdns) support Android, Linux and Windows
 
 ## TODO list 
 [1] Bluetooth discovery refactoring
+
 [2] Integrate offline discovery-authentication-connection code  
 
