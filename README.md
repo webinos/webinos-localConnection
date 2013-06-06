@@ -1,5 +1,3 @@
-webinos-localConnection
-=======================
 
 A set of APIs that enable device and service discovery, connection over multiple discovery protocols.
 
@@ -28,4 +26,6 @@ Zeroconf(mdns) support Android, Linux and Windows
 [1] Bluetooth discovery refactoring
 
 [2] Integrate offline discovery-authentication-connection code  
+
+=======
 
