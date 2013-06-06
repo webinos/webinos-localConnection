@@ -14,6 +14,7 @@
 , "main": "./lib/localconnectionmanager.js"
 , "dependencies":
   {
+     "mdns" : "1.x.x"    
   }
 , "bundleDependencies":
   [
